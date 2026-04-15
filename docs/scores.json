@@ -62,5 +62,13 @@
     "max": 5,
     "pct": 100,
     "updated": "2026-04-15T18:07:23.154Z"
+  },
+  "track-a-agent-submission": {
+    "name": "Track A Agent Submission",
+    "level": 3,
+    "score": 7,
+    "max": 11,
+    "pct": 64,
+    "updated": "2026-04-15T18:59:59.833Z"
   }
 }
