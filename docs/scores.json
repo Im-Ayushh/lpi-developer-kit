@@ -294,5 +294,13 @@
     "max": 13,
     "pct": 62,
     "updated": "2026-04-17T19:30:01.958Z"
+  },
+  "devika-hooda": {
+    "name": "Devika Hooda",
+    "level": 2,
+    "score": 5,
+    "max": 5,
+    "pct": 100,
+    "updated": "2026-04-17T19:53:22.613Z"
   }
 }
